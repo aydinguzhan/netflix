@@ -1,2 +1,2 @@
 # netflix
-front-end 
+Tamamen clone bir proje değildir.
